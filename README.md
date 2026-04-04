@@ -2,59 +2,148 @@
 
 ## 🚀 Cloud & DevOps Engineer
 
-I’m a Cloud & DevOps Engineer focused on building scalable, secure, and production-ready cloud infrastructure on AWS.
+I’m a **Cloud & DevOps Engineer** focused on building **scalable, secure, and production-ready cloud infrastructure** on **AWS**.
 
-### 🔧 Core Areas
-- AWS Cloud Infrastructure
-- Kubernetes / EKS
-- Terraform / Infrastructure as Code
-- CI/CD Pipelines
-- GitOps / ArgoCD
-- DevSecOps & Security Automation
-- Monitoring / Observability
-- Cost Optimization / FinOps
+My work centers around:
+- **Cloud Infrastructure Engineering**
+- **Kubernetes / EKS Platforms**
+- **Infrastructure as Code (Terraform)**
+- **CI/CD & DevSecOps**
+- **GitOps & Platform Automation**
+- **Monitoring / Observability**
+- **Cloud Cost Optimization (FinOps)**
+
+---
+
+## 💡 About Me
+
+I enjoy building **real-world, production-style cloud projects** that reflect how modern engineering teams deploy, secure, monitor, and optimize infrastructure at scale.
+
+My GitHub is focused on:
+- designing **cloud-native platforms**
+- automating **secure delivery pipelines**
+- implementing **GitOps-based deployments**
+- building **observable and cost-efficient systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Cloud:** AWS  
-**Containers & Orchestration:** Docker, Kubernetes, EKS  
-**IaC:** Terraform  
-**CI/CD:** GitHub Actions, Jenkins  
-**GitOps:** ArgoCD  
-**Security:** Trivy, Checkov, SAST/DAST, IaC Scanning  
-**Monitoring:** Prometheus, Grafana  
-**Languages:** Python, Bash, YAML  
+### ☁️ Cloud
+- AWS
+
+### 📦 Containers & Orchestration
+- Docker
+- Kubernetes
+- Amazon EKS
+
+### 🏗 Infrastructure as Code
+- Terraform
+
+### 🔁 CI/CD & GitOps
+- GitHub Actions
+- Jenkins
+- ArgoCD
+
+### 🔐 Security / DevSecOps
+- Trivy
+- Checkov
+- SAST / DAST
+- IaC Security Scanning
+
+### 📊 Monitoring / Observability
+- Prometheus
+- Grafana
+
+### 💻 Languages & Scripting
+- Python
+- Bash
+- YAML
 
 ---
 
 ## 📌 Featured Projects
 
-### 1. [EKS GitOps Observability Platform](https://github.com/swanand18/eks-gitops-observability)
-Production-ready EKS platform using Terraform, ArgoCD, Prometheus, and Grafana with GitOps-based deployment workflows.
+### 🔹 [EKS GitOps Observability Platform](https://github.com/swanand18/eks-gitops-observability)
+A **production-ready EKS platform** built with **Terraform, ArgoCD, Prometheus, and Grafana**, following GitOps-based deployment workflows and observability best practices.
 
-### 2. [DevSecOps CI/CD Pipeline](https://github.com/swanand18/devsecops-pipeline)
-Secure CI/CD pipeline with automated security gates, code scanning, IaC validation, and DevSecOps best practices.
+**Highlights:**
+- EKS infrastructure provisioning
+- GitOps deployment model with ArgoCD
+- Prometheus & Grafana monitoring stack
+- CI/CD-ready platform structure
 
-### 3. [AWS FinOps Automation](https://github.com/swanand18/aws-finops-automation)
-Automation-focused AWS FinOps project for cloud cost visibility, optimization, reporting, and governance.
+---
+
+### 🔹 [DevSecOps CI/CD Pipeline](https://github.com/swanand18/devsecops-pipeline)
+A **security-first CI/CD pipeline** that integrates **automated security gates, code scanning, IaC validation, and DevSecOps practices** into modern delivery workflows.
+
+**Highlights:**
+- Automated pipeline execution
+- Security scanning and validation
+- Shift-left DevSecOps implementation
+- CI/CD workflow hardening
+
+---
+
+### 🔹 [AWS FinOps Automation](https://github.com/swanand18/aws-finops-automation)
+An **AWS FinOps automation project** focused on **cloud cost visibility, optimization, reporting, and governance** using automation-first design principles.
+
+**Highlights:**
+- Cost optimization workflows
+- Reporting automation
+- Governance-oriented cloud cost controls
+- FinOps-focused AWS automation
 
 ---
 
 ## 📚 Currently Building
-- Production-grade cloud infrastructure projects
-- DevOps / Platform Engineering portfolio
-- Security-first deployment pipelines
+
+I’m currently focused on building and refining projects in:
+
+- Production-grade AWS infrastructure
+- Kubernetes / EKS platform engineering
+- DevSecOps automation
+- Cloud governance and operational excellence
+- Infrastructure observability and monitoring
+- FinOps and cloud cost optimization
+
+---
+
+## 🎯 Career Focus
+
+I’m actively strengthening my portfolio around roles such as:
+
+- **Cloud Engineer**
+- **DevOps Engineer**
+- **Platform Engineer**
+- **Site Reliability Engineer (SRE)**
+- **DevSecOps Engineer**
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/swanand18
-- LinkedIn: https://www.linkedin.com/in/swanand-awatade
-- Email: swanand.awatade@gmail.com
+
+- **GitHub:** [github.com/swanand18](https://github.com/swanand18)
+- **LinkedIn:** [linkedin.com/in/swanand-awatade](https://www.linkedin.com/in/swanand-awatade)
+- **Email:** swanand.awatade@gmail.com
 
 ---
 
-## ⚡ Focus
-Building practical, real-world cloud engineering projects that reflect production environments.
+## ⚡ What You’ll Find Here
+
+On this profile, you’ll find projects related to:
+
+- AWS infrastructure
+- Kubernetes / EKS deployments
+- Terraform automation
+- CI/CD pipelines
+- DevSecOps workflows
+- Monitoring / observability
+- FinOps automation
+
+---
+
+## 📈 Goal
+
+To build a **strong, practical, and production-style cloud engineering portfolio** that demonstrates **real implementation skills**, not just theory.
