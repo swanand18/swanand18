@@ -34,6 +34,8 @@ My GitHub is focused on:
 ### ☁️ Cloud
 
 * AWS
+* AZURE
+* GCP
 
 ### 📦 Containers & Orchestration
 
